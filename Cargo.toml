@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 winit = "0.29.3"
 glutin = "0.31.1"
+femtovg = {git = "https://github.com/volt-ui/femtovg"}
