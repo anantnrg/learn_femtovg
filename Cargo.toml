@@ -6,6 +6,6 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-winit = "0.29.3"
-glutin = "0.31.1"
+winit = "0.28.6"
+glutin = "0.30.10"
 femtovg = {git = "https://github.com/volt-ui/femtovg"}
